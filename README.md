@@ -14,7 +14,7 @@ A registration form that can be accessed via a "Register" link.
 A login form that can be accessed via a "Login" button.
 Pop-up Forms: The registration and login forms appear as pop-ups on the homepage when triggered by user interactions.
 
-Back-End: There are two sets of back-end code (server.js and db.js) that handle user registration and database connectivity. Be sure to choose where to connect locally using(server.js) or provide your connection string provided by mongodb atlas in db.js.
+Back-End: There are two sets of back-end code (server.js and db.js) that handle user registration and database connectivity. Be sure to choose whether to connect locally using(server.js) or provide your connection string provided by mongodb atlas in db.js.
 
 Database: The project uses MongoDB as the database system. There's a MongoDB schema defined for the User model with fields for username, email, and password.
 
