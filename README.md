@@ -19,3 +19,6 @@ Back-End: There are two sets of back-end code (server.js and db.js) that handle 
 Database: The project uses MongoDB as the database system. There's a MongoDB schema defined for the User model with fields for username, email, and password.
 
 Styling: The project includes CSS styles for formatting and styling the web page.
+
+
+![tzflag](https://github.com/jimmyurl/html-js-mongo-app/assets/33938444/f5f4d4a6-9b00-43c3-8457-b1e9f92e3df5)
