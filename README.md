@@ -5,14 +5,14 @@ This project aims to provide user registration functionality in a web applicatio
 
 Here's a breakdown of what this project is about:
 
-User Registration: The main functionality of this project is user registration. Users can fill out a form with their username, email, and password, and this data is then processed and stored in a database.
+User Registration: The main functionality of this project is user registration. Users can fill out a form with their username, email, and password, and the data is then processed and stored in a database.
 
 Front-End: The front-end of the application is primarily built using HTML, CSS, and JavaScript. It includes:
 
 A homepage with a navigation bar that has links to "Home," "About," "Services," and "Contacts."
 A registration form that can be accessed via a "Register" link.
 A login form that can be accessed via a "Login" button.
-Pop-up Forms: The registration and login forms appear as pop-ups on the homepage when triggered by user interactions.
+Pop-up Forms: The registration and login forms appear as pop-ups on the homepage when triggered by user interactions(performed by script.js file).
 
 Back-End: There are two sets of back-end code (server.js and db.js) that handle user registration and database connectivity. Be sure to choose whether to connect locally using(server.js) or provide your connection string provided by mongodb atlas in db.js.
 
